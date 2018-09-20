@@ -1,7 +1,3 @@
-body {
-  height: 7000px;
-}
-
 /*  START UPPER bar */
 .upper-bar {
   background-color: #08526d;
@@ -533,3 +529,23 @@ body {
   margin-bottom: 23px;
 }
 /* End Foter */
+
+/* start copyright */
+.copyright {
+  border-top: 1px solid rgb(97, 97, 97);
+  padding: 20px;
+}
+
+.copyright ul {
+  margin: 0;
+}
+.copyright ul li {
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.copyright ul li a {
+  color: #777;
+}
+/* end copyright */
